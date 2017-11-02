@@ -15,4 +15,4 @@ Also install Mocha and Chai for testing
         npm install mocha --save
         npm install chai --save
         
-        To run the tests use command: mocha
+        To run the tests use command: mocha - 
