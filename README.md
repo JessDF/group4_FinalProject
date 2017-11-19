@@ -17,7 +17,7 @@ Also install Mocha and Chai for testing
         
         To run the tests use command: mocha
         
-NEW
+NEW <br>
 https://getbootstrap.com/docs/3.3/getting-started/
 
 $ npm install bootstrap@3
