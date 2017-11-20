@@ -10,7 +10,8 @@ include 'functions.php'
   <body>
     <div>
         <?php
-            words();
+            findSwearwords("hello you cunt as bitch, cunt pokemon is the best, wtf bitch");
+            // words("digimon is the best dont you agree class");
         ?>
     </div>
   </body>
